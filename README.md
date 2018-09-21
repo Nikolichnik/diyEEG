@@ -3,7 +3,8 @@
 
 <hr>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nikolichnik/diyEEG/master/2.png">
-  <img src="https://raw.githubusercontent.com/Nikolichnik/diyEEG/master/1.png">
+  <a href="https://github.com/Nikolichnik"><img src="https://raw.githubusercontent.com/Nikolichnik/diyEEG/master/2.png"></a>
+  <a href="https://github.com/Nikolichnik"><img src="https://raw.githubusercontent.com/Nikolichnik/diyEEG/master/1.png"></a>
 </p>
